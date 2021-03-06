@@ -120,6 +120,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# block upload of data file
+/data
+
 # mypy
 .mypy_cache/
 .dmypy.json
