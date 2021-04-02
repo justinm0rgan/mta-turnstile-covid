@@ -5,8 +5,10 @@ This project is a time series forecast of MTA turnstile data and the disproporti
 
 # Exploration
 
-# Modeling
+# ARIMA Modeling
 
 # Mapping
 
 # Evaluation
+# Repository Structure
+# Contact
